@@ -1,0 +1,15 @@
+[28-Jan-2016 14:28:35 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE), expecting ',' or ';' in /home/virusserver/public_html/tokyotokyo/application/controllers/administrator.php on line 1270
+[29-Jan-2016 12:10:51 Asia/Manila] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/virusserver/public_html/tokyotokyo/application/controllers/administrator.php on line 229
+[01-Feb-2016 11:40:46 Asia/Manila] PHP Fatal error:  Call to undefined function save_other_sizes() in /home/virusserver/public_html/tokyotokyo/application/controllers/administrator.php on line 1343
+[02-Feb-2016 14:05:50 Asia/Manila] PHP Fatal error:  Cannot use object of type stdClass as array in /home/virusserver/public_html/tokyotokyo/application/controllers/administrator.php on line 518
+[02-Feb-2016 14:35:26 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 120
+[02-Feb-2016 14:35:37 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 120
+[02-Feb-2016 14:36:19 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 121
+[02-Feb-2016 14:40:15 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 121
+[02-Feb-2016 14:44:27 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 120
+[02-Feb-2016 14:44:34 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 120
+[02-Feb-2016 14:46:10 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 88
+[02-Feb-2016 14:46:14 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/views/admin/pages.php on line 88
+[02-Feb-2016 16:19:19 Asia/Manila] PHP Parse error:  syntax error, unexpected end of file in /home/virusserver/public_html/tokyotokyo/application/controllers/administrator.php on line 980
+[29-Mar-2016 12:04:50 Asia/Manila] PHP Fatal error:  Call to undefined method Mongo_db::or_like() in /home/virusserver/public_html/tokyotokyo/application/models/main_m.php on line 123
+[05-Sep-2016 13:53:07 Asia/Manila] PHP Fatal error:  Call to a member function initialize() on a non-object in /home/virusserver/public_html/ortigasco/application/views/components/career/inner.php on line 19
